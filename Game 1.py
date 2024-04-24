@@ -9,7 +9,7 @@ computer_wins = 0
 draws = 0
 
 # Play multiple rounds
-while True:
+while  True:
     # Take user input
     user_choice = input("Enter your choice (rock, paper, scissors): ").lower()
 
@@ -17,7 +17,6 @@ while True:
     if user_choice not in choices:
         print("Invalid choice. Please choose rock, paper, or scissors.")
         continue
-
     # Generate computer's choice
     computer_choice = random.choice(choices)
 
