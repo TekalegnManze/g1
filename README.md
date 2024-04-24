@@ -1,4 +1,4 @@
-**Group   1 Members**
+**Group -  1 Members**
 Full Name -----------------------------------ID No.
 1. Tekalegn Manze _______________________DBUR/1289/13
 2. Andamlak G/Mariam ___________________DBUR/0649/13
